@@ -1,0 +1,20 @@
+.comp-contaner{
+    width: 80%;
+    float: left;
+    
+}
+.comp-contaner-img{
+    height: 600px;
+
+}
+.alert{
+    background-color: red;
+    font-size: 30px;
+    color: wheat;
+    text-align: center;
+}
+.ads{
+    font-size: 30px;
+    text-align: center;
+    text-shadow: chartreuse;
+}

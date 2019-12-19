@@ -1,0 +1,33 @@
+.contaner{
+    width: 80%;
+    padding: 4px;
+    text-align: center;
+}
+
+.contaner-part{
+    width: 33.3%;
+    float: left;
+    height: 420px;
+    overflow: hidden;
+}
+.contaner-img{
+    height: 270px;
+}
+.ads{
+    font-size: 30px;
+    text-align: center;
+    text-shadow: chartreuse;
+}
+.contaner-maker{
+    padding: 4px;
+    text-align: center;
+}
+.contaner-img-make1{
+    height: 300px;
+}
+.contaner-img-make{
+    height: 500px;
+    padding: 2px;
+    width: 25%;
+    float: left;
+}
